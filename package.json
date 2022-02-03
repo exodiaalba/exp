@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "tarek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mon": "^0.0.8",
+    "nod": "^0.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
